@@ -1,84 +1,117 @@
 ---
 ---
-
-@string{aps = {American Physical Society,}}
-
-@book{einstein1956investigations,
-  bibtex_show={true},
-  title={Investigations on the Theory of the Brownian Movement},
-  author={Einstein, Albert},
-  year={1956},
-  publisher={Courier Corporation},
-  preview={brownian-motion.gif}
+@article{pvldb23,
+author = {Arafat, Naheed Anjum and Khan, Arijit and Rai, Arpit Kumar and Ghosh, Bishwamittra},
+title = {Neighborhood-Based Hypergraph Core Decomposition},
+year = {2023},
+issue_date = {May 2023},
+publisher = {VLDB Endowment},
+volume = {16},
+number = {9},
+issn = {2150-8097},
+url = {https://doi.org/10.14778/3598581.3598582},
+doi = {10.14778/3598581.3598582},
+abstract = {We propose neighborhood-based core decomposition: a novel way of decomposing hypergraphs into hierarchical neighborhood-cohesive subhypergraphs. Alternative approaches to decomposing hypergraphs, e.g., reduction to clique or bipartite graphs, are not meaningful in certain applications, the later also results in inefficient decomposition; while existing degree-based hypergraph decomposition does not distinguish nodes with different neighborhood sizes. Our case studies show that the proposed decomposition is more effective than degree and clique graph-based decompositions in disease intervention and in extracting provably approximate and application-wise meaningful densest subhypergraphs. We propose three algorithms: Peel, its efficient variant E-Peel, and a novel local algorithm: Local-core with parallel implementation. Our most efficient parallel algorithm Local-core(P) decomposes hypergraph with 27M nodes and 17M hyperedges in-memory within 91 seconds by adopting various optimizations. Finally, we develop a new hypergraph-core model, the (neighborhood, degree)-core by considering both neighborhood and degree constraints, design its decomposition algorithm Local-core+Peel, and demonstrate its superiority in spreading diffusion.},
+journal = {Proc. VLDB Endow.},
+month = {jul},
+pages = {2061–2074},
+numpages = {14},
+selected={true},
+abbr={pVLDB},
+pdf={https://www.vldb.org/pvldb/vol16/p2061-arafat.pdf},
+html={https://dl.acm.org/doi/10.14778/3598581.3598582}
 }
-
-@article{einstein1950meaning,
-  abbr={AJP},
-  bibtex_show={true},
-  title={The meaning of relativity},
-  author={Einstein, Albert and Taub, AH},
-  journal={American Journal of Physics},
-  volume={18},
-  number={6},
-  pages={403--404},
-  year={1950},
-  publisher={American Association of Physics Teachers}
+@article{dexa17,
+	title={Hypergraph drawing by force-directed placement},
+	author={Naheed Anjum Arafat and  St{\'e}phane Bressan},
+	journal={Database and Expert Systems Applications},
+	pages={387--394},
+	year={2017},
+	publisher={Springer International Publishing},
+	address={Cham},
+	abbr={DEXA},
+	abstract={We propose a family of algorithms that transform a hypergraph drawing problem into a graph drawing problem and leverage force-directed graph drawing algorithms in order to draw hypergraphs. We propose and discuss a number of criteria to evaluate the quality of the drawings from the points of view of aesthetics and of visualization and analytics. We empirically and comparatively evaluate the quality of the drawings based on these criteria on both synthetic and real data sets. Experiments reveal that the algorithms are generally effective and the drawings generated are aesthetically pleasing.},
+	html={https://link.springer.com/chapter/10.1007/978-3-319-64471-4_31},
+  	pdf={dexa17.pdf},
+	selected={true},
 }
+@article{dexa19,
+	author={ Naheed Anjum Arafat
+	and  Debabrota Basu
+	and  St{\'e}phane Bressan},
+	title={Topological Data Analysis with {$\epsilon$}-net Induced Lazy Witness Complex},
+	journal={Database and Expert Systems Applications},
+	year={2019},
+	publisher={Springer International Publishing},
+	address={Cham},
+	pages={376--392},
+	selected={true},
+	abbr={DEXA},
+	abstract={Topological data analysis computes and analyses topological features of the point clouds by constructing and studying a simplicial representation of the underlying topological structure. The enthusiasm that followed the initial successes of topological data analysis was curbed by the computational cost of constructing such simplicial representations. The lazy witness complex is a computationally feasible approximation of the underlying topological structure of a point cloud. It is built in reference to a subset of points, called landmarks, rather than considering all the points as in the {\v C}ech and Vietoris-Rips complexes. The choice and the number of landmarks dictate the effectiveness and efficiency of the approximation.
+	
+	We adopt the notion of $\epsilon$-cover to define $\epsilon$-net. We prove that $\epsilon$-net, as a choice of landmarks, is an $\epsilon$-approximate representation of the point cloud and the induced lazy witness complex is a 3-approximation of the induced Vietoris-Rips complex. Furthermore, we propose three algorithms to construct $\epsilon$-net landmarks. We establish the relationship of these algorithms with the existing landmark selection algorithms. We empirically validate our theoretical claims. We empirically and comparatively evaluate the effectiveness, efficiency, and stability of the proposed algorithms on synthetic and real datasets.},
+	html={https://link.springer.com/chapter/10.1007/978-3-030-27618-8_28},
+  	pdf={enet_pointcloud.pdf}
 
-@article{PhysRev.47.777,
-  abbr={PhysRev},
-  title={Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?},
-  author={Einstein, A. and Podolsky, B. and Rosen, N.},
-  abstract={In a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete.},
-  journal={Phys. Rev.},
-  volume={47},
-  issue={10},
-  pages={777--780},
-  numpages={0},
-  year={1935},
-  month={May},
-  publisher=aps,
-  doi={10.1103/PhysRev.47.777},
-  url={http://link.aps.org/doi/10.1103/PhysRev.47.777},
-  html={https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777},
-  pdf={example_pdf.pdf},
-  altmetric={248277},
-  dimensions={true},
-  selected={true}
 }
-
-@article{einstein1905molekularkinetischen,
-  title={{\"U}ber die von der molekularkinetischen Theorie der W{\"a}rme geforderte Bewegung von in ruhenden Fl{\"u}ssigkeiten suspendierten Teilchen},
-  author={Einstein, A.},
-  journal={Annalen der physik},
-  volume={322},
-  number={8},
-  pages={549--560},
-  year={1905},
-  publisher={Wiley Online Library}
+@article{atda19,
+	author    = { Naheed Anjum Arafat,
+	and  Debabrota Basu
+	and  St\'ephane Bressan},
+	title     = {{$\epsilon$}-net Induced Lazy Witness Complexes on Graphs},
+	year      = {2019},
+	journal = {Workshop on Applications of Topological Data Analysis (ECML-PKDD)},
+	abbr={ATDA},
+	html={https://sites.google.com/view/atda2019/papers},
+  	pdf={enet_graph.pdf},
+	abstract = {Computation of persistent homology of simplicial representations such as the Rips and the Cech complexes do not efficiently scale to large point clouds. It is, therefore, meaningful to devise approximate representations and evaluate the trade-off between their efficiency and effectiveness. The lazy witness complex economically defines such a representation using only a few selected points, called landmarks. 
+Topological data analysis traditionally considers a point cloud in a Euclidean space. In many situations, however, data is available in the form of a weighted graph. A graph along with the geodesic distance defines a metric space. This metric space of a graph is amenable to topological data analysis. 
+We discuss the computation of persistent homologies on a weighted graph. We present a lazy witness complex approach leveraging the notion of $\epsilon$-net that we adapt to weighted graphs and their geodesic distance to select landmarks. We show that the value of the ϵ parameter of the $\epsilon$-net provides control on the trade-off between choice and number of landmarks and the quality of the approximate simplicial representation. 
+We present three algorithms for constructing an $\epsilon$-net of a graph. We comparatively and empirically evaluate the efficiency and effectiveness of the choice of landmarks that they induce for the topological data analysis of different real-world graphs.}
 }
-
-@article{einstein1905movement,
-  abbr={Ann. Phys.},
-  title={Un the movement of small particles suspended in statiunary liquids required by the molecular-kinetic theory 0f heat},
-  author={Einstein, A.},
-  journal={Ann. Phys.},
-  volume={17},
-  pages={549--560},
-  year={1905}
+@article{dexa20,
+	author={ Naheed Anjum Arafat
+	and  Debabrota Basu
+	and Laurent Decreusefond
+	and  St{\'e}phane Bressan},
+	title={Construction and Random Generation of Hypergraphs with Prescribed Degree and Dimension Sequences},
+	journal={Database and Expert Systems Applications},
+	year={2020},
+	publisher={Springer International Publishing},
+	address={Cham},
+	pages={130--145},
+	selected={true},
+	abbr={DEXA},
+	html={https://link.springer.com/chapter/10.1007/978-3-030-59051-2_9},
+  	pdf={dexa20.pdf},
+	abstract={We propose algorithms for construction and random generation of hypergraphs without loops and with prescribed degree and dimension sequences. The objective is to provide a starting point for as well as an alternative to Markov chain Monte Carlo approaches. Our algorithms leverage the transposition of properties and algorithms devised for matrices constituted of zeros and ones with prescribed row- and column-sums to hypergraphs. The construction algorithm extends the applicability of Markov chain Monte Carlo approaches when the initial hypergraph is not provided. The random generation algorithm allows the development of a self-normalised importance sampling estimator for hypergraph properties such as the average clustering coefficient.},
 }
-
-@article{einstein1905electrodynamics,
-  title={On the electrodynamics of moving bodies},
-  author={Einstein, A.},
-  year={1905}
+@article{dexa20_extended,
+      title={Construction and Random Generation of Hypergraphs with Prescribed Degree and Dimension Sequences (extended version)}, 
+      author={ Naheed Anjum Arafat
+	and  Debabrota Basu
+	and Laurent Decreusefond
+	and  St{\'e}phane Bressan},
+      year={2020},
+      eprint={2004.05429},
+      archivePrefix={arXiv},
+      primaryClass={cs.DS},
+	  abbr={arXiv},
+	  pdf={dexa20_arxiv.pdf},
+	  html={https://arxiv.org/abs/2004.05429}
 }
-
-@book{przibram1967letters,
-  bibtex_show={true},
-  title={Letters on wave mechanics},
-  author={Einstein, Albert and Schrödinger, Erwin and Planck, Max and Lorentz, Hendrik Antoon and Przibram, Karl},
-  year={1967},
-  publisher={Vision},
-  preview={wave-mechanics.gif}
+@article{DAS20191092,
+	title = "Evolutionary algorithm using adaptive fuzzy dominance and reference point for many-objective optimization",
+	journal = "Swarm and Evolutionary Computation",
+	volume = "44",
+	pages = "1092 - 1107",
+	year = "2019",
+	issn = "2210-6502",
+	doi = "https://doi.org/10.1016/j.swevo.2018.11.003",
+	url = "http://www.sciencedirect.com/science/article/pii/S2210650217304996",
+	author = "Siddhartha Shankar Das and Md Monirul Islam and Naheed Anjum Arafat",
+	keywords = "Many-objective optimization, Evolutionary algorithm, Pareto dominance, Fuzzy dominance, Reference point",
+	abbr={SEC},
+	html={https://www.sciencedirect.com/science/article/pii/S2210650217304996},
+	abstract={Many-objective optimization is very important for numerous practical applications. It, however, poses a great challenge to the Pareto dominance based evolutionary algorithms. In this paper, a fuzzy dominance based evolutionary algorithm is proposed for many-objective optimization. The essence of the proposed algorithm is that it adaptively determines a fuzzy membership function for each objective of a given many-objective optimization problem and employs preferred reference points for clustering evolved solutions. Our algorithm uses distribution information of the evolving population to find preferred reference points from a set of generated reference points. The aim of using such preferred points is to emphasize both convergence and diversity of all the evolved solutions by maintaining cluster uniformity and handling irregular Pareto front. Extensive experimentation has been performed on a number of benchmark problems in evolutionary computing, including nine Waking-Fish-Group and seven Deb-Thiele-Laumanns-Zitzler benchmark problems having 2 to 25 objectives. In addition, we have investigated the performance of the proposed algorithm on three instances of degenerate Rectangle Problems. The experimental results show that the proposed algorithm is able to solve many-objective optimization problems efficiently, and it is compared favorably with the other evolutionary algorithms devised for such problems. A parametric study is also provided to understand the influence of a key parameter of the proposed algorithm.}
 }
