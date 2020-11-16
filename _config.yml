@@ -47,7 +47,7 @@ orcid_id: # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
-research_gate_profile: # your profile on ResearchGate
+research_gate_profile: Naheed_Anjum_Arafat # your profile on ResearchGate
 blogger_url: # your blogger URL
 keybase_username: # your keybase user name
 
@@ -126,7 +126,7 @@ plugins:
 
 scholar:
 
-  last_name: Einstein
+  last_name: Arafat
 
   style: apa
   locale: en
