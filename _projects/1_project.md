@@ -7,12 +7,26 @@ importance: 1
 category: work
 related_publications: einstein1956investigations, einstein1950meaning
 ---
+<h4>Motivation:</h4> Given a degree sequence and dimension sequence, how to estimate some property of the set of hypergraphs conforming to the given sequences?
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+<h4> Example </h4>
+There are three hypergraphs that conform to degree sequence $$(a)_n = (3,2,2,2)$$ and dimension sequence $$(b)_n = (4,3,3)$$.
+<img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/confighg.svg' | relative_url }}" alt="" title="Hypergraphs with a given degree and dimension sequence"/>
+<!-- <div class="caption"> Hypergraphs with degree sequence (a)_n = (3,2,2,2) and dimension sequence $$(b)_n = (4,3,3)$$</div> -->
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+The objective is to estimate mean of some property \(f\) of the set of conforming hypergraphs. 
+<img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/appl1.svg' | relative_url }}" alt="" title="Estimating properties of the set of conforming hypergraphs"/>
+
+In order to do so, one needs to first, generate random hypergraphs as samples and finally, devise a statistical estimator to estimate the population mean of \(f\) from the sample hypergraphs.
+
+<h4> Publication/Preprints: </h4>
+If you are interested in the details, please refer to my following papers-
+* <a href = "https://link.springer.com/chapter/10.1007/978-3-030-59051-2_9">Construction and Random Generation of Hypergraphs with Prescribed Degree and Dimension Sequences, DEXA 2020.<a> 
+* <a href = "https://arxiv.org/pdf/2004.05429.pdf" > ArXiv preprint (Full version) </a>
+
+<!-- <div class="caption"> Hypergraphs with a given degree and dimension sequence </div> -->
+
+<!-- To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
     ---
     layout: page
@@ -77,5 +91,9 @@ Here's the code for the last row of images above:
         {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+<<<<<<< HEAD:_projects/1_project.md
 ```
 {% endraw %}
+=======
+```  -->
+>>>>>>> home page:_projects/1_project.markdown

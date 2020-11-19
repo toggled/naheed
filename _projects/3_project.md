@@ -8,7 +8,18 @@ importance: 3
 category: work
 ---
 
-Every project has a beautiful feature showcase page.
+<h4>Motivation: </h4> 
+
+<h4> Contribution: </h4>
+
+<h4> Publication/Preprints: </h4>
+If you are interested in the details, please refer to my paper-
+* <a href="https://link.springer.com/chapter/10.1007/978-3-319-64471-4_31"> Hypergraph drawing by force-directed placement, DEXA 2020.</a>
+    
+
+
+
+<!-- Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
 

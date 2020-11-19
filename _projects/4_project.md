@@ -1,13 +1,20 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: Dynamical systems
+description: Classifying bifurcation using TDA
 img:
 importance: 3
 category: fun
 ---
 
-Every project has a beautiful feature showcase page.
+
+<h4> Publication/Preprints: </h4>
+If you are interested in the details, please refer to my following works-
+* <a href="https://www.sciencedirect.com/science/article/abs/pii/S2210650217304996"> Evolutionary algorithm using adaptive fuzzy dominance and reference point for many-objective optimization, Swarm and evolutionary computation (2019).</a>
+   
+* Undergraduate Poster presentation, BUET: <a href = "https://drive.google.com/file/d/1TUHkIk_wcO5X7yfOrR5Qgjd4p3Ue2oJN/view?usp=sharing"> Many-Objective Evolutionary Approach using Fuzzy Dominance with Bidirectional Bias, <a href="https://drive.google.com/file/d/0B_vV1Xwwq8rlUkg4RnpybklQWjA/view?usp=sharing"> Distinguished Poster award, 2014</a></a> 
+
+<!-- Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
 
@@ -76,5 +83,4 @@ Here's the code for the last row of images above:
         {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-```
-{% endraw %}
+``` -->
