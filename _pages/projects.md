@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: The projects I have worked on over the years.
 nav: true
 ---
 

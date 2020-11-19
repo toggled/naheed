@@ -27,8 +27,11 @@
 	pages={376--392},
 	selected={true},
 	abbr={DEXA},
-	html={https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777},
-  	pdf={example_pdf.pdf}
+	abstract={Topological data analysis computes and analyses topological features of the point clouds by constructing and studying a simplicial representation of the underlying topological structure. The enthusiasm that followed the initial successes of topological data analysis was curbed by the computational cost of constructing such simplicial representations. The lazy witness complex is a computationally feasible approximation of the underlying topological structure of a point cloud. It is built in reference to a subset of points, called landmarks, rather than considering all the points as in the {\v C}ech and Vietoris-Rips complexes. The choice and the number of landmarks dictate the effectiveness and efficiency of the approximation.
+	
+	We adopt the notion of $\epsilon$-cover to define $\epsilon$-net. We prove that $\epsilon$-net, as a choice of landmarks, is an $\epsilon$-approximate representation of the point cloud and the induced lazy witness complex is a 3-approximation of the induced Vietoris-Rips complex. Furthermore, we propose three algorithms to construct $\epsilon$-net landmarks. We establish the relationship of these algorithms with the existing landmark selection algorithms. We empirically validate our theoretical claims. We empirically and comparatively evaluate the effectiveness, efficiency, and stability of the proposed algorithms on synthetic and real datasets.},
+	html={https://link.springer.com/chapter/10.1007/978-3-030-27618-8_28},
+  	pdf={enet_pointcloud.pdf}
 
 }
 @article{atda19,
@@ -43,7 +46,7 @@
   	pdf={enet_graph.pdf},
 	abstract = {Computation of persistent homology of simplicial representations such as the Rips and the Cech complexes do not efficiently scale to large point clouds. It is, therefore, meaningful to devise approximate representations and evaluate the trade-off between their efficiency and effectiveness. The lazy witness complex economically defines such a representation using only a few selected points, called landmarks. 
 Topological data analysis traditionally considers a point cloud in a Euclidean space. In many situations, however, data is available in the form of a weighted graph. A graph along with the geodesic distance defines a metric space. This metric space of a graph is amenable to topological data analysis. 
-We discuss the computation of persistent homologies on a weighted graph. We present a lazy witness complex approach leveraging the notion of ϵ-net that we adapt to weighted graphs and their geodesic distance to select landmarks. We show that the value of the ϵ parameter of the $\epsilon$-net provides control on the trade-off between choice and number of landmarks and the quality of the approximate simplicial representation. 
+We discuss the computation of persistent homologies on a weighted graph. We present a lazy witness complex approach leveraging the notion of $\epsilon$-net that we adapt to weighted graphs and their geodesic distance to select landmarks. We show that the value of the ϵ parameter of the $\epsilon$-net provides control on the trade-off between choice and number of landmarks and the quality of the approximate simplicial representation. 
 We present three algorithms for constructing an $\epsilon$-net of a graph. We comparatively and empirically evaluate the efficiency and effectiveness of the choice of landmarks that they induce for the topological data analysis of different real-world graphs.}
 }
 @article{dexa20,
