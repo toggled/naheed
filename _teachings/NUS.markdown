@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Courses at NUS
-description: 'Approximating Persistence homological features using \(\epsilon\)-net and lazy witness complex'
-img: /assets/img/3.jpg
+# description: ''
+img: /assets/img/nus.png
 importance: 1
 ---
 
