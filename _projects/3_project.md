@@ -9,8 +9,15 @@ category: work
 ---
 
 <h4>Motivation: </h4> 
+<p>Datapoints in many real-world dataset are not necessarily dyadic in nature, e.g. relation between authors in a scientific article. 
+Hypergraphs are generalisation of graphs that can naturally represent such data.</p>
+A <b>hypergraph</b> consists of a collection of points called <b>vertices</b> and a collection of subset of those vertices called <b>hyperedges</b>. 
 
-<h4> Contribution: </h4>
+<h4> Contributions: </h4>
+<p> In order to visualise such data, we propose algorithms for drawing hypergraphs in 2D. In order to quantitatively measure quality of the visualisation we propose metrics.</p>
+
+<p> Under the supervision of <a href="https://www.comp.nus.edu.sg/~steph/"> Stephane Bressan</a>, I implemented a platform for drawing hypergraphs using Fructherman-Reingolds force-based graph drawing algorithm. Currently it supports subset-based, edge-based and zykov-based drawing. </p>
+A demo video of the hypergraph drawing platform.
 
 <h4> Publication/Preprints: </h4>
 If you are interested in the details, please refer to my paper-
