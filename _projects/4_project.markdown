@@ -18,10 +18,11 @@ Many real world problems involve multiple objectives to be satisfied concurrentl
 
 Problems involving more than three objectives are commonly known as <b>Many-objective Optimization Problems</b>. Since the number of non-dominated solutions increases
 exponentially with increase in the number of objectives, many-objective optimisation problems are challenging to solve. The objective is to devise an algorithm for solving many-objective optimisation problems.
-
+<hr>
 <h4> Contributions: </h4>
 In my undergraduate thesis, in collaboration with <a href="https://sites.google.com/site/siddhartha047/"> Siddhartha Shankar Das</a>, I adopted the notion of fuzzy-dominance to solve many-objective optimisation problems. Later Siddhartha adopted the notion of reference points to develop a new algorithm that significantly improves the performance of our algorithm.   
 
+<hr>
 <h4> Publication/Preprints: </h4>
 If you are interested in the fuzzy-dominance based algorithm, please refer to my undergraduate thesis and poster-
    

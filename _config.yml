@@ -87,6 +87,9 @@ collections:
   teachings:
     output: true
     permalink: /teachings/:path/
+  talks:
+    output: true
+    permalink: /talks/:path/
 
 news_limit: 5
 

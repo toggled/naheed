@@ -6,7 +6,7 @@ img: /assets/img/nus.png
 importance: 1
 ---
 
-Every project has a beautiful feature showcase page.
+<!-- Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
 
@@ -17,9 +17,36 @@ To give your project a background in the portfolio page, just add the img tag to
     title: project
     description: a project with a background image
     img: /assets/img/12.jpg
-    ---
+    --- -->
+<ul class="list-group">
+    <li class="list-group-item list-group-item-action list-group-item-secondary"> Big Data Techniques and Technologies (BT4221):   
+    <a href="https://ivle.nus.edu.sg/V1/lms/public/view_moduleoutline.aspx?CourseID=2523d950-3013-4287-b0e2-4bcfbf8146ff">Semester 1, 2019</a></li>
+    <li class="list-group-item list-group-item-action list-group-item-secondary">Data Management and Warehousing (BT5110) 
+        <ul>
+            <li> Semester 1, 2019 </li>
+            <li> Semester 1 2018 </li>
+            <li> <a href="https://ivle.nus.edu.sg/V1/lms/public/view_moduleoutline.aspx?CourseID=7143DA76-B841-4785-B78E-9CCB833FF8C5&ClickFrom=StuViewBtn">Semester 1, 2017</a></li>
+        </ul>
+    </li>
+    <li class="list-group-item list-group-item-action list-group-item-secondary"> Information Visualisation (CS5346): <a href="https://ivle.nus.edu.sg/V1/lms/public/view_moduleoutline.aspx?CourseID=2B93F405-3643-4F88-A671-013C05C862DE&ClickFrom=StuViewBtn">Semester 2, 2018 </a></li>
+    <li class="list-group-item list-group-item-action list-group-item-secondary"> Discrete Structures (CS1231): Semester 1, 2016 </li>
+    <li class="list-group-item list-group-item-action list-group-item-secondary"> Programming Methodology (CS1010E) 
+        <ul> 
+            <li> Semester 2, 2017 </li>
+            <li> Semester 2, 2016 </li>
+        </ul>
+    </li>
+<ul>
 
-<div class="row">
+<!-- <hr>
+<div class = "post">
+    <header class = "post-header"> 
+        <h1 class="post-title">Guest Lectures</h1>
+    </header> 
+</div> -->
+
+
+<!-- <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/1.jpg' | relative_url }}" alt="" title="example image"/>
     </div>
@@ -41,8 +68,9 @@ To give your project a background in the portfolio page, just add the img tag to
 <div class="caption">
     This image can also have a caption. It's like magic.
 </div>
+-->
 
-You can also put regular text between your rows of images.
+<!-- You can also put regular text between your rows of images.
 Say you wanted to write a little bit about your project before you posted the rest of the images.
 You describe how you toiled, sweated, *bled* for your project, and then... you reveal it's glory in the next row of images.
 
@@ -74,4 +102,4 @@ Here's the code for the last row of images above:
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/11.jpg' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
-```
+```  -->
