@@ -2,7 +2,7 @@
 layout: page
 title: Random hypergraphs
 description: 'Generating random hypergraph with a given degree and dimension contraints'
-img: /assets/img/12.jpg
+# img: /assets/img/12.jpg
 importance: 1
 ---
 <h4>Motivation:</h4> Given a degree sequence and dimension sequence, how to estimate some property of the set of hypergraphs conforming to the given sequences?
