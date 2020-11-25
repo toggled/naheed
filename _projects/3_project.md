@@ -13,6 +13,7 @@ category: work
 Hypergraphs are generalisation of graphs that can naturally represent such data.</p>
 A <b>hypergraph</b> consists of a collection of points called <b>vertices</b> and a collection of subset of those vertices called <b>hyperedges</b>. 
 
+<hr>
 <h4> Contributions: </h4>
 <!-- <p> In order to visualise such data, we propose algorithms for drawing hypergraphs in 2D. In order to quantitatively measure quality of the visualisation we propose metrics.</p> -->
 
@@ -21,11 +22,12 @@ A <b>hypergraph</b> consists of a collection of points called <b>vertices</b> an
 <div class = "caption"> Here is a demo of Hypervis. </div>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/16iXlXGsUf4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen> </iframe>
 
+<hr>
 
 <h4> Publication/Preprints: </h4>
 If you are interested in the details, please refer to my paper-
 * <a href="https://link.springer.com/chapter/10.1007/978-3-319-64471-4_31"> Hypergraph drawing by force-directed placement, DEXA 2020.</a>
-    
+<hr>
 <h4> Source code: </h4>
 * <a href = "https://github.com/toggled/Hypervis"> Hypervis </a> 
 

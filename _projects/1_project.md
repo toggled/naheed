@@ -18,10 +18,10 @@ The objective is to estimate mean of some property \(f\) of the set of conformin
 <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/appl1.svg' | relative_url }}" alt="" title="Estimating properties of the set of conforming hypergraphs"/>
 
 In order to do so, one needs to first, generate random hypergraphs as samples and finally, devise a statistical estimator to estimate the population mean of \(f\) from the sample hypergraphs.
-
+<hr>
 <h4> Contributions: </h4>
 In collaboration with <a href = "https://debabrota-basu.github.io/">Debabrota Basu</a>, <a href="https://www.comp.nus.edu.sg/~steph/"> Stephane Bressan</a> and <a href="http://decreusefond.telecom-paristech.fr/wordpress/"> Laurent Decrausefond</a>, I developed algorithms for generating random hypergraphs conforming to given degree and dimension sequences. I also devised an <a href="https://en.wikipedia.org/wiki/Importance_sampling"> Importance sampling </a> based estimator for estimating properties of such hypergraphs.
-
+<hr>
 <h4> Publication/Preprints: </h4>
 If you are interested in the details, please refer to my following papers-
 * <a href = "https://link.springer.com/chapter/10.1007/978-3-030-59051-2_9">Construction and Random Generation of Hypergraphs with Prescribed Degree and Dimension Sequences, DEXA 2020.<a> 
