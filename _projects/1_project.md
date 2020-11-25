@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: Random hypergraphs
+description: 'Generating random hypergraph with a given degree and dimension contraints'
+# img: /assets/img/12.jpg
 importance: 1
-category: work
-related_publications: einstein1956investigations, einstein1950meaning
+# category: work
+# related_publications: einstein1956investigations, einstein1950meaning
 ---
 <h4>Motivation:</h4> Given a degree sequence and dimension sequence, how to estimate some property of the set of hypergraphs conforming to the given sequences?
 
@@ -94,9 +94,4 @@ Here's the code for the last row of images above:
         {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<<<<<<< HEAD:_projects/1_project.md
-```
-{% endraw %}
-=======
 ```  -->
->>>>>>> home page:_projects/1_project.markdown

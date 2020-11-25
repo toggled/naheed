@@ -2,7 +2,7 @@
 layout: page
 title: Topological data analysis
 description: 'Approximating Persistence homological features using \(\epsilon\)-net and lazy witness complex'
-img: /assets/img/3.jpg
+# img: /assets/img/3.jpg
 importance: 2
 category: work
 giscus_comments: true
