@@ -29,7 +29,7 @@ To give your project a background in the portfolio page, just add the img tag to
         </ul>
     </li>
     <li class="list-group-item list-group-item-action list-group-item-secondary"> Information Visualisation (CS5346): <a href="https://ivle.nus.edu.sg/V1/lms/public/view_moduleoutline.aspx?CourseID=2B93F405-3643-4F88-A671-013C05C862DE&ClickFrom=StuViewBtn">Semester 2, 2018 </a></li>
-    <li class="list-group-item list-group-item-action list-group-item-secondary"> Discrete Structures (CS1231): Semester 1, 2016 </li>
+    <li class="list-group-item list-group-item-action list-group-item-secondary"> Discrete Structures (CS1231): <a href="https://ivle.nus.edu.sg/V1/lms/public/list_lecturers.aspx?CourseID=73efbd67-772e-4de3-b743-8e4f574378c0">Semester 1, 2016</a> </li>
     <li class="list-group-item list-group-item-action list-group-item-secondary"> Programming Methodology (CS1010E) 
         <ul> 
             <li> Semester 2, 2017 </li>
