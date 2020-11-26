@@ -2,7 +2,7 @@
 layout: page
 title: Evolutionary optmisation algorithms
 description: Devising evolutionary algorithms to solve optimisation problems with many-objectives.
-img:
+img: ''
 importance: 3
 ---
 
