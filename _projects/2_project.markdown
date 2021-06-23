@@ -23,5 +23,4 @@ If you are interested in the details, please refer to my following papers-
 <h4> Talks: </h4>
 Deb gave an excellent presentation on this work at AATRN (Applied Algebraic Topology Research Network) virtual seminar. 
 <iframe width="50%" height="50%" src="https://www.youtube.com/embed/FKRw07rb-4g" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen> </iframe>
-</div>
 
