@@ -20,10 +20,9 @@ If you are interested in the details, please refer to my following papers-
 * <a href = "https://link.springer.com/chapter/10.1007/978-3-030-27618-8_28">Topological Data Analysis with $$\epsilon$$-net Induced Lazy Witness Complex, DEXA 2019.<a> 
 * <a href = "https://arxiv.org/pdf/2009.13071.pdf" > $$\epsilon$$-net Induced Lazy Witness Complexes on Graphs, ATDA workshop, ECML-PKDD 2019. </a>
 
-<h4> Debs talk: </h4>
-<div>
-Deb gave an excellent presentation on this work at AATRN (Applied Algebraic Topology Research Network) virtual seminar.
-<iframe width="50%" height="315" src="https://www.youtube.com/watch?v=FKRw07rb-4g&t=2527s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen> </iframe>
+<h4> Talks: </h4>
+Deb gave an excellent presentation on this work at AATRN (Applied Algebraic Topology Research Network) virtual seminar. 
+<iframe width="50%" height="50%" src="https://www.youtube.com/embed/FKRw07rb-4g" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen> </iframe>
 </div>
 <!-- Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
