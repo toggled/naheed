@@ -17,13 +17,13 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Naheed is a Research Fellow at the deptartment of information systems and analytics, NUS. Prior to that, he was a Research Assistant at department of computer science, NUS.
+Naheed is a Research Fellow at Rolls-Royce Corporate Lab@NTU. Prior to that, he spent 1.5 year at National University of Singapore (NUS) as a post-doc (deptartment of Information Systems and Analytics), and Research Assistant (department of Computer Science). 
 
-His research interests include Topological data analysis, graph and hypergraphs for data modeling, data generation and statistical analysis.
+Naheed graduated from NUS with a PhD in November, 2020. His research interests include Topological data analysis, graph and hypergraphs for data modeling, data generation and statistical analysis.
 
-He is looking into applications of graphs, hypergraphs, and topology in machine learning.
+He is actively working on graphs and hypergraphs as a means to solve real-world problems in machine learning, data mining and digital innovation in a principled manner.
 
-<a href='assets/pdf/Naheed_Resume.pdf'>Curriculum Vitae</a>
+<a href='assets/pdf/Naheed_Resume.pdf'>Curriculum Vitae(2020)</a>
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
