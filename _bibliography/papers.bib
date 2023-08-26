@@ -1,6 +1,25 @@
 ---
 ---
-
+@article{pvldb23,
+author = {Arafat, Naheed Anjum and Khan, Arijit and Rai, Arpit Kumar and Ghosh, Bishwamittra},
+title = {Neighborhood-Based Hypergraph Core Decomposition},
+year = {2023},
+issue_date = {May 2023},
+publisher = {VLDB Endowment},
+volume = {16},
+number = {9},
+issn = {2150-8097},
+url = {https://doi.org/10.14778/3598581.3598582},
+doi = {10.14778/3598581.3598582},
+abstract = {We propose neighborhood-based core decomposition: a novel way of decomposing hypergraphs into hierarchical neighborhood-cohesive subhypergraphs. Alternative approaches to decomposing hypergraphs, e.g., reduction to clique or bipartite graphs, are not meaningful in certain applications, the later also results in inefficient decomposition; while existing degree-based hypergraph decomposition does not distinguish nodes with different neighborhood sizes. Our case studies show that the proposed decomposition is more effective than degree and clique graph-based decompositions in disease intervention and in extracting provably approximate and application-wise meaningful densest subhypergraphs. We propose three algorithms: Peel, its efficient variant E-Peel, and a novel local algorithm: Local-core with parallel implementation. Our most efficient parallel algorithm Local-core(P) decomposes hypergraph with 27M nodes and 17M hyperedges in-memory within 91 seconds by adopting various optimizations. Finally, we develop a new hypergraph-core model, the (neighborhood, degree)-core by considering both neighborhood and degree constraints, design its decomposition algorithm Local-core+Peel, and demonstrate its superiority in spreading diffusion.},
+journal = {Proc. VLDB Endow.},
+month = {jul},
+pages = {2061–2074},
+numpages = {14},
+selected={true},
+abbr={pVLDB},
+pdf={https://www.vldb.org/pvldb/vol16/p2061-arafat.pdf}
+}
 @article{dexa17,
 	title={Hypergraph drawing by force-directed placement},
 	author={Naheed Anjum Arafat and  St{\'e}phane Bressan},
