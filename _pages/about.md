@@ -26,7 +26,7 @@ He is actively working on graphs and hypergraphs as a means to solve real-world 
 <a href='assets/pdf/Naheed_Resume.pdf'>Curriculum Vitae(2020)</a>
 
 ---------
-***Services: *** TKDE 2023, CODS-COMAD 2023, TKDE 2021
+***_Services:_*** TKDE 2023, CODS-COMAD 2023, TKDE 2021
 
 ---------
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
