@@ -32,7 +32,7 @@ He is actively working on graphs and hypergraphs as a means to solve real-world 
 - Session Chair
 	> [VLDB 2023](https://vldb.org/2023/?program-schedule#R30)
 - Reviewer
-	> Journal of Applied and Computational Topology, DASFAA 2020, DAWAK 2020, ICDE 2018, VLDB 2017, DEXA 2017
+	> [JACT](https://www.springer.com/journal/41468/), DASFAA 2020, DAWAK 2020, ICDE 2018, VLDB 2017, DEXA 2017
 
 ---------
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
