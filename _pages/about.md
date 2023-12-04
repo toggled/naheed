@@ -23,7 +23,7 @@ Naheed graduated from NUS with a PhD in November, 2020. His research interests i
 
 He is actively working on graphs and hypergraphs as a means to solve real-world problems in machine learning, data mining and digital innovation in a principled manner.
 
-<a href='assets/pdf/Naheed_Resume.pdf'>Curriculum Vitae(2020)</a>
+<a href='assets/pdf/Naheed_Resume.pdf'>Curriculum Vitae(2023)</a>
 
 ---------
 ***Services:*** 
