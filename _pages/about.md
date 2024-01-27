@@ -8,21 +8,19 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>+65 90196390</p>
-    <p>85 Circuit Road</p>
-    <p>Singapore 370085</p>
+    <p>341 W Side Dr 204, Gaithersburg, MD 20878, USA </p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Naheed is a Research Fellow at Rolls-Royce Corporate Lab@NTU. Prior to that, he spent 1.5 year at National University of Singapore (NUS) as a post-doc (deptartment of Information Systems and Analytics), and Research Assistant (department of Computer Science). 
+I am broadly interested in algorithms for higher-order data. How to design efficient algorithms for hypergraph structured data mining, How to visualise hypergraphs, How to generate realistic synthetic hypergraphs- I have investigated such questions in the realm of higher-order data mining.
 
-Naheed graduated from NUS with a PhD in November, 2020. His research interests include Topological data analysis, graph and hypergraphs for data modeling, data generation and statistical analysis.
+At the same time, I am also invested in various real-world applications/implications of graph and hypergraph learning. For instance, At Rolls-Royce@NTU Corp lab, I have worked on GNNs to accelerate fluid flow simulations. 
 
-He is actively working on graphs and hypergraphs as a means to solve real-world problems in machine learning, data mining and digital innovation in a principled manner.
-
+<b>I am in the job market.</b> I was a Research Fellow at Rolls-Royce Corporate Lab@NTU from 2021-2023. Prior to that, I graduated from National University of Singapore (NUS) in Nov, 2020. I was also an RA at NUS school of computing in 2019 and post-doc in the deparment of information systems from 2020-21.
+ 
 <a href='assets/pdf/Naheed_Resume.pdf'>Curriculum Vitae(2023)</a>
 
 ---------
