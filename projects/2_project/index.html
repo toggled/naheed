@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-<title>Naheed Anjum Arafat | blank</title>
+<title>Naheed Anjum Arafat | Topological data analysis</title>
 <meta name="description" content="A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 ">
 
@@ -30,7 +30,7 @@
 <link rel="shortcut icon" href="/naheed/assets/img/favicon.ico">
 <link rel="stylesheet" href="/naheed/assets/css/main.css">
 
-<link rel="canonical" href="/naheed/blog/">
+<link rel="canonical" href="/naheed/projects/2_project/">
 
 <!-- Theming-->
 
@@ -139,56 +139,36 @@
     <div class="container mt-5">
       <div class="post">
 
-  <div class="header-bar">
-    <h1></h1>
-    <h2></h2>
-  </div>
+  <header class="post-header">
+    <h1 class="post-title">Topological data analysis</h1>
+    <p class="post-description">Approximating Persistence homological features using \(\epsilon\)-net and lazy witness complex</p>
+  </header>
+
+  <article>
+    <h4>Motivation: </h4>
+<p><a href="https://en.wikipedia.org/wiki/Topological_data_analysis">Topological data analysis</a> computes and analyses topological features of the point clouds by constructing and studying a <a href="https://en.wikipedia.org/wiki/Simplicial_complex"> simplicial representation</a> of the underlying topological structure. The enthusiasm that followed the initial successes of topological data analysis was curbed by the computational cost of constructing such simplicial representations. The lazy witness complex is a computationally feasible approximation of the underlying topological structure of a point cloud. It is built in reference to a subset of points, called landmarks, rather than considering all the points as in the <a href="https://en.wikipedia.org/wiki/Vietoris%E2%80%93Rips_complex">Vietoris-Rips complexes</a>.</p>
+
+<hr />
+
+<h4> Contributions: </h4>
+<p>In collaboration with <a href="https://debabrota-basu.github.io/">Debabrota Basu</a> and <a href="https://www.comp.nus.edu.sg/~steph/"> Stephane Bressan</a>, I adopt the notion of <a href="https://en.wikipedia.org/wiki/Cover_(topology)">cover </a> to define \(\epsilon\)-net. We prove that \(\epsilon\)-net, as a choice of landmarks, is an \(\epsilon\)-approximate representation of the point cloud in <a href="https://en.wikipedia.org/wiki/Hausdorff_distance">Hausdorff metric</a>. More importantly, the induced lazy witness complex is a \(3\)-approximation of the induced Vietoris-Rips complex. The implication of this result is that, persistence of topological features computed using \(\epsilon\)-net as landmark is guaranteed to deviate no more than \(\log(3)\) away (in <a href="http://gudhi.gforge.inria.fr/doc/latest/group__bottleneck__distance.html">Bottleneck distance</a>) from the same computed using Vietoris-Rips. Finally, we propose three algorithms to construct \(\epsilon\)-net of a point cloud.</p>
+
+<p>In a subsequent paper, we extended our results on graph data. A new bound on the size of \(\epsilon\)-net of a connected unweighted graph is given.</p>
+<hr />
+
+<h4> Publication/Preprints: </h4>
+<p>If you are interested in the details, please refer to my following papers-</p>
+<ul>
+  <li><a href="https://link.springer.com/chapter/10.1007/978-3-030-27618-8_28">Topological Data Analysis with \(\epsilon\)-net Induced Lazy Witness Complex, DEXA 2019.<a></a></a></li>
+  <li><a href="https://arxiv.org/pdf/2009.13071.pdf"> \(\epsilon\)-net Induced Lazy Witness Complexes on Graphs, ATDA workshop, ECML-PKDD 2019. </a></li>
+</ul>
+
+<h4> Talks: </h4>
+<p>Deb gave an excellent presentation on this work at AATRN (Applied Algebraic Topology Research Network) virtual seminar.</p>
+<iframe width="50%" height="50%" src="https://www.youtube.com/embed/FKRw07rb-4g" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""> </iframe>
 
 
-  <ul class="post-list">
-    
-      <li>
-        <h3><a class="post-title" href="/naheed/2020/09/29/github-metadata.html">a post with github metadata</a></h3>
-        <p class="post-meta">September 29, 2020</p>
-        <p>a quick run down on accessing github metadata.</p>
-      </li>
-    
-      <li>
-        <h3><a class="post-title" href="/naheed/2020/09/28/twitter.html">a post with twitter</a></h3>
-        <p class="post-meta">September 28, 2020</p>
-        <p>an example of a blog post with twitter</p>
-      </li>
-    
-      <li>
-        <h3><a class="post-title" href="/naheed/2018/12/22/distill.html">a distill-style blog post</a></h3>
-        <p class="post-meta">December 22, 2018</p>
-        <p>an example of a distill-style blog post and main elements</p>
-      </li>
-    
-  </ul>
-
-  
-<nav aria-label="Blog page naviation">
-  <ul class="pagination pagination-lg justify-content-center">
-    <li class="page-item disabled">
-      <a class="page-link" href="" tabindex="-1" aria-disabled="">Newer</a>
-    </li>
-    
-      
-        <li class="page-item active"><a class="page-link" href="/naheed/blog/index.html" title="blank">1</a></li>
-      
-        <li class="page-item "><a class="page-link" href="/naheed/blog/page/2/index.html" title="blank - page 2">2</a></li>
-      
-        <li class="page-item "><a class="page-link" href="/naheed/blog/page/3/index.html" title="blank - page 3">3</a></li>
-      
-    
-    <li class="page-item ">
-      <a class="page-link" href="/naheed/blog/page/2/">Older</a>
-    </li>
-  </ul>
-</nav>
-
-
+  </article>
 
 </div>
 
