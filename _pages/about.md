@@ -22,7 +22,9 @@ I am also invested in various real-world applications/implications of graph and 
 
 I was a Research Fellow at Rolls-Royce Corporate Lab@NTU from 2021-2023. Prior to that, I graduated from National University of Singapore (NUS) in Nov, 2020. I was also an RA at NUS school of computing in 2019 and post-doc in the deparment of information systems from 2020-21.
  
-<a href='assets/pdf/Naheed_Resume.pdf'>Curriculum Vitae (2023)</a>
+<a href='assets/pdf/Naheed_Resume.pdf'>Curriculum Vitae</a>
+
+<a href='assets/pdf/Research_Statement.pdf'>Research Statement</a>
 
 ---------
 ***Services:*** 
