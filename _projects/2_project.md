@@ -5,7 +5,6 @@ description: 'Approximating Persistence homological features using \(\epsilon\)-
 # img: /assets/img/3.jpg
 importance: 2
 category: PhD
-giscus_comments: true
 ---
 <h4>Motivation: </h4> 
 <a href = "https://en.wikipedia.org/wiki/Topological_data_analysis">Topological data analysis</a> computes and analyses topological features of the point clouds by constructing and studying a <a href="https://en.wikipedia.org/wiki/Simplicial_complex"> simplicial representation</a> of the underlying topological structure. The enthusiasm that followed the initial successes of topological data analysis was curbed by the computational cost of constructing such simplicial representations. The lazy witness complex is a computationally feasible approximation of the underlying topological structure of a point cloud. It is built in reference to a subset of points, called landmarks, rather than considering all the points as in the <a href="https://en.wikipedia.org/wiki/Vietoris%E2%80%93Rips_complex">Vietoris-Rips complexes</a>. 
