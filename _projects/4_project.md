@@ -4,7 +4,7 @@ title: Evolutionary optmisation algorithms
 description: Devising evolutionary algorithms to solve optimisation problems with many-objectives.
 img:
 importance: 3
-category: work
+category: Bachelors
 ---
 
 <h4> Project description: </h4>
