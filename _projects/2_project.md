@@ -22,7 +22,8 @@ If you are interested in the details, please refer to my following papers-
 * <a href = "https://link.springer.com/chapter/10.1007/978-3-030-27618-8_28">Topological Data Analysis with $$\epsilon$$-net Induced Lazy Witness Complex, DEXA 2019.<a> 
 * <a href = "https://arxiv.org/pdf/2009.13071.pdf" > $$\epsilon$$-net Induced Lazy Witness Complexes on Graphs, ATDA workshop, ECML-PKDD 2019. </a>
 
-<!-- Every project has a beautiful feature showcase page.
+<!-- 
+Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
 
@@ -93,3 +94,4 @@ Here's the code for the last row of images above:
 </div>
 ```
 {% endraw %}
+-->
