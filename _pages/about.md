@@ -16,11 +16,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am broadly interested in algorithms for higher-order data. How to design efficient algorithms for hypergraph structured data mining, How to visualise hypergraphs, How to generate realistic synthetic hypergraphs- I have investigated such questions in the realm of higher-order data mining.
+As a seasoned researcher specialising in the algorithmic, applied, and topological aspects of non-relational data, particularly graphs and their higher-order counterpart, hypergraphs, my research endeavours have focused on advancing the frontiers of representation learning, topological data analysis, and algorithmic innovations. 
 
-I am also invested in various real-world applications/implications of graph and hypergraph learning. For instance, At Rolls-Royce@NTU Corp lab, I designed GNNs to accelerate flow field prediction on high-resolution mesh by exploiting low-resolution simulations (super-resolution problem). 
+I am also interested in real-world applications of machine learning (e.g. physics domain). At Rolls-Royce@NTU Corp lab, I designed GNNs to accelerate flow field prediction on high-resolution mesh by exploiting low-resolution simulations (super-resolution problem). 
 
-I was a Research Fellow at Rolls-Royce Corporate Lab@NTU from 2021-2023. Prior to that, I graduated from National University of Singapore (NUS) in Nov, 2020. I was also an RA at NUS school of computing in 2019 and post-doc in the deparment of information systems from 2020-21.
+I was a Research Fellow at Rolls-Royce Corporate Lab@NTU from 2021-2023. Prior to that, I graduated from National University of Singapore (NUS) in Nov, 2020. 
  
 <a href='assets/pdf/Naheed_Resume.pdf'>Curriculum Vitae</a>
 
