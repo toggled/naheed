@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 
 As a seasoned researcher specialising in the algorithmic, applied, and topological aspects of non-relational data, particularly graphs and their higher-order counterpart, hypergraphs, my research endeavours have focused on advancing the frontiers of representation learning, topological data analysis, and algorithmic innovations. 
 
-I am also interested in real-world applications of machine learning (e.g. physics domain). At Rolls-Royce@NTU Corp lab, I designed GNNs to accelerate flow field prediction on high-resolution mesh by exploiting low-resolution simulations (super-resolution problem). 
+I am also interested in real-world applications of machine learning, for instance, in [physics domain](https://icml.cc/virtual/2024/poster/33839). At Rolls-Royce@NTU Corp lab, I designed GNNs to accelerate flow field prediction on high-resolution mesh by exploiting low-resolution simulations (super-resolution problem). 
 
 I was a Research Fellow at Rolls-Royce Corporate Lab@NTU from 2021-2023. Prior to that, I graduated from National University of Singapore (NUS) in Nov, 2020. 
  
