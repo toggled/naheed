@@ -28,7 +28,7 @@ I was a Research Fellow at Rolls-Royce Corporate Lab@NTU from 2021-2023. Prior t
 
 ---------
 ***Services:*** 
-- **PC Member:** CODS-COMAD 2024, [CODS-COMAD 2023](https://cods-comad.in/program-committee.php), TKDE 2023, TKDE 2021, SKIMA 2014
+- **PC Member:** CODS-COMAD 2025, [CODS-COMAD 2024](https://cods-comad.in/program-committee.php), TKDE 2023, TKDE 2021, SKIMA 2014
 - **Session Chair:** [VLDB 2023](https://vldb.org/2023/?program-schedule#R30)
 - **Reviewer:** ICLR 2025, LoG 2024, NeurIPS 2024, CIKM 2024, [JACT](https://www.springer.com/journal/41468/), DASFAA 2020, DAWAK 2020, ICDE 2018, VLDB 2017, DEXA 2017
 
