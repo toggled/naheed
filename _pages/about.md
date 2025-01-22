@@ -16,12 +16,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-As a seasoned researcher specialising in the algorithmic, applied, and topological aspects of non-relational data, particularly graphs and their higher-order counterpart, hypergraphs, my research endeavours have focused on advancing the frontiers of representation learning, topological data analysis, and algorithmic innovations. 
+Naheed Anjum Arafat is a researcher with extensive experience as a Research Fellow at Rolls-Royce@NTU Corporate Lab, Nanyang Technological University (NTU), Singapore (2021-2024). At RR@NTU Corp Lab, Naheed contributed to cutting-edge advancements in graph-based AI for computational physics simulation. He holds a Ph.D. in Computer Science from the National University of Singapore (2020), specializing in hypergraphs (higher-order graphs) and topological data analysis. 
 
-I am also interested in real-world applications of machine learning, for instance, in [physics domain](https://icml.cc/virtual/2024/poster/33839). At Rolls-Royce@NTU Corp lab, I designed GNNs to accelerate flow field prediction on high-resolution mesh by exploiting low-resolution simulations (super-resolution problem). 
+Naheed's expertise encompasses graph representation learning, adversarially robust learning, and hypergraph data mining, with applications in cybersecurity, computational physics, and human-centered AI. His contributions have been recognized through publications in premier venues such as ICML, ICLR, AAAI, VLDB, among others as well as a patent granted by the UK Intellectual Property Office.
 
-I was a Research Fellow at Rolls-Royce Corporate Lab@NTU from 2021-2023. Prior to that, I graduated from National University of Singapore (NUS) in Nov, 2020. 
- 
+# I am also interested in real-world applications of machine learning, for instance, in [physics domain](https://icml.cc/virtual/2024/poster/33839). At Rolls-Royce@NTU Corp lab, I designed GNNs to accelerate flow field prediction on high-resolution mesh by exploiting low-resolution simulations (super-resolution problem). 
+
 <a href='assets/pdf/Naheed_Resume.pdf'>Curriculum Vitae</a>
 
 <a href='assets/pdf/Research_Statement.pdf'>Research Statement</a>
