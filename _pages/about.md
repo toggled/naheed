@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Naheed Anjum Arafat is a researcher with extensive experience as a Research Fellow at Rolls-Royce@NTU Corporate Lab, Nanyang Technological University (NTU), Singapore (2021-2024). At RR@NTU Corp Lab, Naheed contributed to cutting-edge advancements in graph-based AI for computational physics simulation. He holds a Ph.D. in Computer Science from the National University of Singapore (2020), specializing in hypergraphs (higher-order graphs) and topological data analysis. 
+Naheed is a researcher with extensive experience as a Research Fellow at Rolls-Royce@NTU Corporate Lab, Nanyang Technological University (NTU), Singapore (2021-2024). At RR@NTU Corp Lab, he contributed to cutting-edge advancements in graph-based AI for computational physics simulation. He holds a Ph.D. in Computer Science from the National University of Singapore (2020), specializing in hypergraphs (higher-order graphs) and topological data analysis. 
 
 Naheed's expertise encompasses graph representation learning, adversarially robust learning, and hypergraph data mining, with applications in cybersecurity, computational physics, and human-centered AI. His contributions have been recognized through publications in premier venues such as ICML, ICLR, AAAI, VLDB, among others as well as a patent granted by the UK Intellectual Property Office.
 
