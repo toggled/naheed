@@ -20,8 +20,6 @@ Naheed is a researcher with extensive experience as a Research Fellow at Rolls-R
 
 Naheed's expertise encompasses graph representation learning, adversarially robust learning, and hypergraph data mining, with applications in cybersecurity, computational physics, and human-centered AI. His contributions have been recognized through publications in premier venues such as ICML, ICLR, AAAI, VLDB, among others as well as a patent granted by the UK Intellectual Property Office.
 
-# I am also interested in real-world applications of machine learning, for instance, in [physics domain](https://icml.cc/virtual/2024/poster/33839). At Rolls-Royce@NTU Corp lab, I designed GNNs to accelerate flow field prediction on high-resolution mesh by exploiting low-resolution simulations (super-resolution problem). 
-
 <a href='assets/pdf/Naheed_Resume.pdf'>Curriculum Vitae</a>
 
 <a href='assets/pdf/Research_Statement.pdf'>Research Statement</a>
