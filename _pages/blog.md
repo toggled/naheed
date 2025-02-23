@@ -15,8 +15,10 @@ nav_order: 1
   #   before: 1 # The number of links before the current page
   #   after: 3  # The number of links after the current page
 ---
+Some useful links:
 
-Nothing here for now.
+1. <a href="https://www.acm.org/publications/policies/new-acm-policy-on-authorship">ACM Authorship Policy </a>
+2. <a href="https://credit.niso.org/">Contributor roles Taxonomy</a>
 
 <!-- <div class="post">
 
