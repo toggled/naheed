@@ -20,6 +20,8 @@ Some useful links:
 1. <a href="https://www.acm.org/publications/policies/new-acm-policy-on-authorship">ACM Authorship Policy </a>
 2. <a href="https://credit.niso.org/">Contributor roles Taxonomy</a>
 
+<!-- https://aidos.group/guide/ -->
+
 <!-- <div class="post">
 
   {% assign blog_name_size = site.blog_name | size %}
