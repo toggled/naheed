@@ -19,6 +19,7 @@ Some useful links:
 
 1. <a href="https://www.acm.org/publications/policies/new-acm-policy-on-authorship">ACM Authorship Policy </a>
 2. <a href="https://credit.niso.org/">Contributor roles Taxonomy</a>
+3. <a href="https://toggled.github.io/naheed/assets/pdf/Award_codscomad.pdf">Distinguished PC Member Award at CODS-COMAD 2024</a>)
 
 <!-- https://aidos.group/guide/ -->
 

@@ -18,7 +18,8 @@ social: true  # includes social icons at the bottom of the page
 
 Naheed is a researcher with extensive experience as a Research Fellow at Rolls-Royce@NTU Corporate Lab, Nanyang Technological University (NTU), Singapore (2021-2024). At RR@NTU Corp Lab, he contributed to cutting-edge advancements in graph-based AI for computational physics simulation. He holds a Ph.D. in Computer Science from the National University of Singapore (2020), specializing in hypergraphs (higher-order graphs) and topological data analysis. 
 
-Naheed's expertise encompasses graph representation learning, adversarially robust learning, and hypergraph data mining, with applications in cybersecurity, computational physics, and human-centered AI. His contributions have been recognized through publications in premier venues such as ICML, ICLR, AAAI, VLDB, among others as well as a patent granted by the UK and US Intellectual Property Office.
+Naheed's expertise encompasses graph representation learning, adversarially robust learning, and hypergraph data mining, with applications in cybersecurity, computational physics, and human-centered AI. His contributions have been recognized through publications in premier venues such as ICML, ICLR, AAAI, VLDB, among others as well as two patents granted by the UK and US Intellectual Property Office.
+ 
 
 <a href='assets/pdf/Naheed_Resume.pdf'>Curriculum Vitae</a>
 
