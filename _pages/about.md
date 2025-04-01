@@ -28,6 +28,6 @@ Naheed's expertise encompasses graph representation learning, adversarially robu
 ***Services:*** 
 - **PC Member:** CODS-COMAD 2025, [CODS-COMAD 2024](https://cods-comad.in/program-committee.php), TKDE 2023, TKDE 2021, SKIMA 2014
 - **Session Chair:** [VLDB 2023](https://vldb.org/2023/?program-schedule#R30)
-- **Reviewer:** ICML 2025, <a href="https://iclr.cc/Conferences/2025/Reviewers">ICLR 2025</a>, ICDE 2025, LoG 2024, <a href = "https://neurips.cc/Conferences/2024/ProgramCommittee">NeurIPS 2024</a>, CIKM 2024, [JACT](https://www.springer.com/journal/41468/), DASFAA 2020, DAWAK 2020, ICDE 2018, VLDB 2017, DEXA 2017
+- **Reviewer:** IEEE Tran. Big Data 2025, ICML 2025, <a href="https://iclr.cc/Conferences/2025/Reviewers">ICLR 2025</a>, ICDE 2025, LoG 2024, <a href = "https://neurips.cc/Conferences/2024/ProgramCommittee">NeurIPS 2024</a>, CIKM 2024, [JACT](https://www.springer.com/journal/41468/), DASFAA 2020, DAWAK 2020, ICDE 2018, VLDB 2017, DEXA 2017
 
 ---------
