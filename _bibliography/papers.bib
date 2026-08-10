@@ -1,5 +1,35 @@
 ---
 ---
+@article{kdd2026,
+author = {Das, Siddhartha Shankar and Arafat, Naheed Anjum and Rahman, Muftiqur and Ferdous, S M and Pothen, Alex and Halappanavar, Mahantesh and Rawat, Danda B.},
+title = {SGS-GNN: A Supervised Graph Sparsifier for Graph Neural Networks},
+year = {2026},
+isbn = {9798400722592},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3770855.3818110},
+doi = {10.1145/3770855.3818110},
+abstract = {We propose SGS-GNN, a supervised graph sparsifier for Graph Neural Networks (GNNs) to improve predictive performance and reduce the cost of message passing by removing task-irrelevant edges. Existing unsupervised sparsifiers are not task-aware, while existing supervised sparsifiers suffer from significant memory overhead, poor sparsity control, and a lack of homophily/heterophily awareness. SGS-GNN addresses these limitations by adopting a feature- and structure-aware edge-probability encoder, a sparse subgraph sampler that strictly adheres to a global sparsity constraint, and a homophily-aware regularizer to improve prediction accuracy across homophilic and heterophilic graphs. A key scalability-enhancing feature of SGS-GNN is that it ensures encoder updates are computed by backpropagating through the sampled subgraph, and avoids retaining edge-level computation graphs for all edges via gradient checkpointing. A key efficiency-enhancing feature of SGS-GNN is that the edge-probability encoder is updated only when it outperforms a degree-based edge sampler, ensuring performance no worse than a strong unsupervised baseline. Experiments on 33 homophilic and heterophilic graphs show that SGS-GNN improves F1-scores by 4\% relative to full training and up to 30\% on heterophilic graphs. Furthermore, SGS-GNN outperforms state-of-the-art methods by 4–7\% at similar sparsity levels while reducing peak memory usage by up to 3.9{\texttimes}.},
+booktitle = {Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.2},
+pages = {755–766},
+numpages = {12},
+keywords = {graph sparsification, graph neural network},
+location = {Republic of Korea},
+series = {KDD '26},
+html={https://dl.acm.org/doi/epdf/10.1145/3770855.3818110},
+abbr={KDD},
+selected={true}
+}
+@article{icml2026,
+title={Adversarial Attacks and Robust Training for Hypergraph Neural Networks},
+author={Naheed Anjum Arafat and Debabrota Basu and Yulia Gel and Danda B. Rawat},
+booktitle={Forty-third International Conference on Machine Learning},
+year={2026},
+abbr={ICML},
+selected={true},
+pdf={https://openreview.net/pdf?id=9NPxvxmZ7e},
+html={https://openreview.net/forum?id=9NPxvxmZ7e}
+}
 @article{iclr25,
     author={Bishwamittra Gosh and Sarah Hasan and  Naheed Anjum Arafat and Arijit Khan},
     title={Logical Consistency of Large Language Models in Fact-checking},
