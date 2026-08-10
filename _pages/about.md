@@ -15,9 +15,9 @@ latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Naheed is a post-doctoral fellow at <a href="https://www.dod-coe4ai-ml.org/home"> DoD Center of Excellence in AI & ML </a>, Howard University. He has extensive experience as a Research Fellow at Rolls-Royce@NTU Corporate Lab, Nanyang Technological University (NTU), Singapore (2021-2024). At RR@NTU Corp Lab, he contributed to cutting-edge advancements in graph-based AI for computational physics simulation. He holds a Ph.D. in Computer Science from the National University of Singapore (2020), specializing in hypergraphs (higher-order graphs) and topological data analysis. 
+Naheed is a post-doctoral researcher at <a href="https://www.dod-coe4ai-ml.org/home"> DoD Center of Excellence in AI & ML </a>, Howard University working on various issues regarding reliability and scalability of learning on graphs. He has extensive experience as a Research Fellow at Rolls-Royce@NTU Corporate Lab, Nanyang Technological University (NTU), Singapore (2021-2024). At RR@NTU Corp Lab, he contributed to cutting-edge advancements in graph-based AI for computational physics simulation. He holds a Ph.D. in Computer Science from the School of Computing, National University of Singapore. 
 
-Naheed's expertise encompasses graph representation learning, adversarially robust learning, and hypergraph data mining, with applications in privacy, cybersecurity, and  computational physics. His contributions have been recognized through publications in premier venues such as ICML, ICLR, AAAI, VLDB, among others as well as two patents granted by the UK and US Intellectual Property Office.
+Naheed's expertise encompasses Learning on Graphs and Hypergraphs, and various issues that arises in such learning setting; for instance, scalability, robustness, explainability, and privacy. His contributions in this domain have been recognized through publications in premier venues such as ICML, ICLR, AAAI, KDD, VLDB, among others as well as two patents granted by the UK and US Intellectual Property Office.
  
 
 <a href='assets/pdf/Naheed_Resume.pdf'>Curriculum Vitae</a>
@@ -26,8 +26,7 @@ Naheed's expertise encompasses graph representation learning, adversarially robu
 
 ---------
 ***Services:*** 
-- **PC Member:** CODS-COMAD 2025, [CODS-COMAD 2024](https://cods-comad.in/program-committee.php), TKDE 2023, TKDE 2021, SKIMA 2014
+- **Editorial Board Member:** Knowledge Engineering Review (KER)
+- **PC Member:** NeurIPS 2027, AAAI 2027, AISI@AAAI 2027, ICLR 2026, ICML 2026, NeurIPS 2026, AAAI 2026, NeurIPS 2025, MLG workshop @ECML-PKDD2025, LLM+G Workshop@VLDB2025, Australasian Database Conference (ADC) 2025, IEEE Tran. Big Data 2025, ICML 2025, <a href="https://iclr.cc/Conferences/2025/Reviewers">ICLR 2025</a>, ICDE 2025, CODS-COMAD 2025, [CODS-COMAD 2024](https://cods-comad.in/program-committee.php), LoG 2024, <a href = "https://neurips.cc/Conferences/2024/ProgramCommittee">NeurIPS 2024</a>, CIKM 2024, [JACT](https://www.springer.com/journal/41468/), TKDE 2023, TKDE 2021, DASFAA 2020, DAWAK 2020, ICDE 2018, VLDB 2017, DEXA 2017, SKIMA 2014
 - **Session Chair:** [VLDB 2023](https://vldb.org/2023/?program-schedule#R30)
-- **Reviewer:** NeurIPS 2025, MLG workshop @ECML-PKDD2025, LLM+G Workshop@VLDB2025, IEEE Tran. Big Data 2025, ICML 2025, <a href="https://iclr.cc/Conferences/2025/Reviewers">ICLR 2025</a>, ICDE 2025, LoG 2024, <a href = "https://neurips.cc/Conferences/2024/ProgramCommittee">NeurIPS 2024</a>, CIKM 2024, [JACT](https://www.springer.com/journal/41468/), DASFAA 2020, DAWAK 2020, ICDE 2018, VLDB 2017, DEXA 2017
-
 ---------
