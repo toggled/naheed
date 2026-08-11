@@ -151,7 +151,7 @@ collections:
     output: true
     permalink: /talks/:path/
 
-news_limit: 5
+news_limit: 7
 
 announcements:
   enabled: true
