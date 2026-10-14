@@ -24,7 +24,7 @@ Naheed's expertise encompasses Learning on Graphs and Hypergraphs, in particular
 
 <!-- <a href='assets/pdf/Research_Statement.pdf'>Research Statement</a> -->
 
----------
+---------`
 ***Services:*** 
 
 - **Editorial Board Member:** Knowledge Engineering Review (KER) (2025-present)
@@ -32,7 +32,7 @@ Naheed's expertise encompasses Learning on Graphs and Hypergraphs, in particular
 - **PC Member:** 
   - 2027: AAAI, AISI@AAAI
   - 2026: NeurIPS, <a href="https://iclr.cc/Conferences/2026/ProgramCommittee">ICLR</a>, AAAI
-  - 2025: <a href="https://neurips.cc/Conferences/2024/ProgramCommittee"> NeurIPS</a>, MLG workshop @ECML-PKDD, LLM+G Workshop@VLDB, Australasian Database Conference (ADC), IEEE Tran. Big Data, <a href="https://icml.cc/Conferences/2025/ProgramCommittee">ICML</a>, <a href="https://iclr.cc/Conferences/2025/Reviewers">ICLR</a>, ICDE, CODS-COMAD
+  - 2025: <a href="https://neurips.cc/Conferences/2025/ProgramCommittee"> NeurIPS</a>, MLG workshop @ECML-PKDD, LLM+G Workshop@VLDB, Australasian Database Conference (ADC), IEEE Tran. Big Data, <a href="https://icml.cc/Conferences/2025/ProgramCommittee">ICML</a>, <a href="https://iclr.cc/Conferences/2025/Reviewers">ICLR</a>, ICDE, CODS-COMAD
   - 2024: [CODS-COMAD](https://cods-comad.in/program-committee.php), Learning on Graphs (LoG) , <a href = "https://neurips.cc/Conferences/2024/ProgramCommittee">NeurIPS</a>, CIKM, [JACT](https://www.springer.com/journal/41468/)
   - < 2023: TKDE 2023, TKDE 2021, DASFAA 2020, DAWAK 2020, ICDE 2018, VLDB 2017, DEXA 2017, SKIMA 2014.
 
